@@ -1,0 +1,17 @@
+{
+  "name": "games-hub",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build-all.mjs",
+    "build:fast": "node scripts/build-all.mjs --skip-games",
+    "titles": "node scripts/capture-titles.mjs",
+    "preview": "node scripts/serve.mjs",
+    "deploy": "npm run build && gh-pages -d site --dotfiles -m \"Deploy site\""
+  },
+  "devDependencies": {
+    "gh-pages": "^6.3.0",
+    "playwright": "^1.50.0",
+    "sharp": "^0.34.0"
+  }
+}

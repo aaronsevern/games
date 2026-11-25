@@ -1,0 +1,37 @@
+[
+  {
+    "slug": "tag",
+    "name": "Tag!",
+    "credits": "by Wesley",
+    "players": "2–3 players",
+    "blurb": "Platform tag with a ticking bomb. Don't be the one holding it when time runs out."
+  },
+  {
+    "slug": "warsim",
+    "name": "War Simulator",
+    "credits": "by Wesley",
+    "players": "2 players",
+    "blurb": "Gather resources against the clock, build an army of defense, melee, ranged and mounted units, then watch them battle."
+  },
+  {
+    "slug": "manontherun",
+    "name": "Man on the Run",
+    "credits": "by Aydin",
+    "players": "1–2 players",
+    "blurb": "Red runs, Blue chases. Get caught, break free of the rope, and survive the hideout for 3 minutes."
+  },
+  {
+    "slug": "spaceball",
+    "name": "Space Ball",
+    "credits": "Astronauts vs Aliens · by Ethan & Max",
+    "players": "2 players",
+    "blurb": "Dodgeball in space. Two balls, three lives, and plenty of obstacles to hide behind."
+  },
+  {
+    "slug": "racinglane",
+    "name": "Racing Lane",
+    "credits": "by Ani and Hannah",
+    "players": "3 players",
+    "blurb": "Race through 7 levels of speed bumps, water slides, trampolines and crosswalks. Buy skins in the shop."
+  }
+]
